@@ -34,5 +34,21 @@ namespace Hoja_de_Trabajo1
                 label5.Text = "datos incorrectos";
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                x = int.Parse(textBox1.Text);
+                y = int.Parse(textBox2.Text);
+                resp = x * y + x ^ 2 / x;
+                label5.Text = "x* y+x ^ 2 / x";
+                richTextBox1.Text = Convert.ToString(resp);
+            }
+            catch
+            {
+                label5.Text = "datos incorrectos";
+            }
+        }
     }
 }
