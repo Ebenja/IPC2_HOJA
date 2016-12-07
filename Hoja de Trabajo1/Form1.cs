@@ -60,7 +60,7 @@ namespace Hoja_de_Trabajo1
                 resp = x*100 -y + (x^y);
                 label5.Text = "x*100 -y + (x^y)";
                 richTextBox1.Text = Convert.ToString(resp) + " \n usted escribio x = "+ x +
-                    " \n usted escribio y = " + y;
+                    " \n usted escribio y = " + y + "\n _201504530";
             }
             catch
             {
