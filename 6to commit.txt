@@ -1,0 +1,14 @@
+¿Qué entiende como "commit"?
+
+	Un commit es un conjunto de cambios que se realizo a un programa.
+
+¿Qué entiende como "merge"?
+	Lo entiendo como la union de varias ramas de un versionamiento.
+	En otras palabras una version 1.0 y una 1.1 con diferentes cambios.
+	Tienen un objetivo principal en la 1.3 
+
+	O la incorporacion de los cambios de un repositorio en otro.
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+	Push guarda los cambios en el repositorio.
+	Pull es como la extraer algo de un repositorio.
