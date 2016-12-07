@@ -12,9 +12,27 @@ namespace Hoja_de_Trabajo1
 {
     public partial class Form1 : Form
     {
+        int x;
+        int y;
+        int resp;
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try { 
+             x = int.Parse(textBox1.Text);
+            y = int.Parse(textBox2.Text);
+            resp = x ^ y + (x + y) / x;
+            label5.Text = "x^y+(x + y)/x";
+            richTextBox1.Text = Convert.ToString(resp);
+        }
+            catch 
+            {
+                label5.Text = "datos incorrectos";
+            }
         }
     }
 }

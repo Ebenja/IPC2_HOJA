@@ -1,1 +1,10 @@
 C:\Users\Erick\Documents\Ingenieria\IPC2 DIC\Hoja de Trabajo1\Hoja de Trabajo1\bin\Debug\Hoja de Trabajo1.exe.config
+C:\Users\Erick\IPC2_HOJA\Hoja de Trabajo1\bin\Debug\Hoja de Trabajo1.exe.config
+C:\Users\Erick\IPC2_HOJA\Hoja de Trabajo1\bin\Debug\Hoja de Trabajo1.exe
+C:\Users\Erick\IPC2_HOJA\Hoja de Trabajo1\bin\Debug\Hoja de Trabajo1.pdb
+C:\Users\Erick\IPC2_HOJA\Hoja de Trabajo1\obj\Debug\Hoja de Trabajo1.csprojResolveAssemblyReference.cache
+C:\Users\Erick\IPC2_HOJA\Hoja de Trabajo1\obj\Debug\Hoja_de_Trabajo1.Form1.resources
+C:\Users\Erick\IPC2_HOJA\Hoja de Trabajo1\obj\Debug\Hoja_de_Trabajo1.Properties.Resources.resources
+C:\Users\Erick\IPC2_HOJA\Hoja de Trabajo1\obj\Debug\Hoja de Trabajo1.csproj.GenerateResource.Cache
+C:\Users\Erick\IPC2_HOJA\Hoja de Trabajo1\obj\Debug\Hoja de Trabajo1.exe
+C:\Users\Erick\IPC2_HOJA\Hoja de Trabajo1\obj\Debug\Hoja de Trabajo1.pdb
