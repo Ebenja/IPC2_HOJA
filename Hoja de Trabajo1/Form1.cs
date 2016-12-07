@@ -67,5 +67,22 @@ namespace Hoja_de_Trabajo1
                 label5.Text = "datos incorrectos";
             }
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+            try
+            {
+                x = int.Parse(textBox1.Text);
+                y = int.Parse(textBox2.Text);
+                resp = ((x*y*x)/x^y)  * 100;
+                label5.Text = "((x*y*x)/x^y)  * 100";
+                richTextBox1.Text = "Estimado usuario su resultado es:" + Convert.ToString(resp);
+            }
+            catch
+            {
+                label5.Text = "datos incorrectos";
+            }
+        }
     }
 }
